@@ -1,0 +1,13 @@
+digraph "C:/Users/Jack/Desktop/Camera/CamerasRevenge" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_e80f0a26d991d83a69c9ccae88dcc8e8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Camera" fontname="Helvetica", fontsize="10", URL="dir_e80f0a26d991d83a69c9ccae88dcc8e8.html"]
+  subgraph clusterdir_da5013b8f04d7c5fef3556fa7ccaea73 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_da5013b8f04d7c5fef3556fa7ccaea73.html"];
+    dir_da5013b8f04d7c5fef3556fa7ccaea73 [shape=plaintext label="CamerasRevenge"];
+    dir_b05e0a6aa05a9e4932946372d835daa1 [shape=box label="debug" color="black" fillcolor="white" style="filled" URL="dir_b05e0a6aa05a9e4932946372d835daa1.html"];
+  }
+  }
+}

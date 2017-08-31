@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Resource/camera.png</file>
+        <file>Resource/folder_open.png</file>
+        <file>Resource/save.png</file>
+        <file>Resource/start.png</file>
+        <file>Resource/stop.png</file>
+        <file>Resource/timer.png</file>
+        <file>Resource/Undo-icon.png</file>
+        <file>Resource/Redo-icon.png</file>
+        <file>Resource/mail.png</file>
+    </qresource>
+</RCC>

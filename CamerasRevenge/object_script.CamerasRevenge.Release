@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\delayform.o
+./release\editingtools.o
+./release\smtp.o
+./release\worker.o
+./release\qrc_Resources.o
+./release\moc_mainwindow.o
+./release\moc_delayform.o
+./release\moc_smtp.o
+./release\moc_worker.o
+);
